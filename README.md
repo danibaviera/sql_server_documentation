@@ -60,10 +60,4 @@ Este repositório contém uma **documentação abrangente e prática** sobre adm
 
 ---
 
-⭐ **Gostou do projeto? Deixe uma star!** ⭐
 
-📚 **Encontrou útil? Compartilhe com outros profissionais!** 📚
-
----
-
-*Desenvolvido com ❤️ para a comunidade SQL Server*
