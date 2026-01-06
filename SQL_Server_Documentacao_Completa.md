@@ -1,5 +1,5 @@
 # Documentação Completa do SQL Server
-*Algumas tarefas que compôe o dia a dia de um DBA*
+*Algumas tarefas que compõe o dia a dia de um DBA*
 
 ---
 
